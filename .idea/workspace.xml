@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9e15fe-26f8-4fd9-a63a-7a04c6ee6ef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\my_repo\flink\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YI4kAG2k4GbCe15AjzqsqcW3uP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="D:/Users/flink-1.10.0/examples/table/StreamSQLExample.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\liwei\flink\src\main\java\com\liwei\flink" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.flink [clean]">
+    <configuration name="FlinkSql" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liwei.flink.FlinkSql" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liwei.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KlinkKafka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liwei.flink.KlinkKafka" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liwei.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.liwei.flink.Producer" />
+      <module name="flink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.liwei.flink.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="flink [clean]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="flink [package]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.flink [clean]" />
+        <item itemvalue="Application.FlinkSql" />
+        <item itemvalue="Application.Producer" />
+        <item itemvalue="Maven.flink [package]" />
+        <item itemvalue="Application.KlinkKafka" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9e15fe-26f8-4fd9-a63a-7a04c6ee6ef9" name="Default Changelist" comment="" />
+      <created>1582616914590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582616914590</updated>
+      <workItem from="1582616919308" duration="18762000" />
+      <workItem from="1582679886601" duration="30335000" />
+      <workItem from="1582769083749" duration="20924000" />
+      <workItem from="1582799469717" duration="4248000" />
+      <workItem from="1582855109740" duration="24695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582877474814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582877474814" />
+    <state x="622" y="129" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1582869951233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="622" y="129" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1582869951233" />
+    <state width="434" height="438" key="DebuggerActiveHint" timestamp="1582868507540">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="434" height="438" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1582868507540" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1582882286608">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582882286608" />
+    <state width="1493" height="121" key="GridCell.Tab.0.bottom" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.0.center" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.0.left" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.0.right" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.1.bottom" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.1.center" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.1.left" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state width="1493" height="121" key="GridCell.Tab.1.right" timestamp="1582886684376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="121" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582886684376" />
+    <state x="272" y="0" key="SettingsEditor" timestamp="1582886127008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582886127008" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1582868507522">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1582868507522" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1582884853565">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1582884853565" />
+  </component>
+</project>
