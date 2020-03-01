@@ -1,5 +1,6 @@
 package com.liwei.flink;
 
+import org.apache.flink.api.common.JobExecutionResult;
 import org.apache.flink.api.common.serialization.SimpleStringSchema;
 import org.apache.flink.api.common.typeinfo.Types;
 import org.apache.flink.api.java.functions.FlatMapIterator;
@@ -67,6 +68,6 @@ public class FlinkSql {
         appendStream.print();
         DataStream<Tuple2<String, String>> tuple2DataStream = tableEnv.toAppendStream(sqlQuery1, Types.TUPLE(Types.STRING, Types.STRING));
         tuple2DataStream.print();
-        env.execute("flink");
+        JobExecutionResult result = env.execute("flink");
     }
 }
